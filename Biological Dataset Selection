@@ -1,0 +1,49 @@
+
+Introduction
+The purpose of this project is to identify and describe a publicly available biological dataset using an open scientific repository.
+For this project, I selected a breast cancer gene expression dataset from the National Center for Biotechnology Information (NCBI).
+
+Dataset Information
+- Dataset Name: Breast Cancer Gene Expression Dataset
+- GEO Accession Number: GSE2034
+- Organism: Homo sapiens
+- Disease: Breast Cancer
+- Data Type: Gene Expression Data
+- Repository: NCBI Gene Expression Omnibus (GEO)
+- Number of Samples: 286
+- Number of Features: 22,283 probes
+- Technology: Affymetrix Human Genome U133A Microarray
+
+Dataset Source
+The dataset was obtained from the NCBI Gene Expression Omnibus (GEO), a public repository for functional genomics data.
+Official Dataset URL:
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE2034
+Dataset Description
+GSE2034 contains gene expression profiles from 286 human breast cancer tumor samples.
+The data was generated using Affymetrix microarray technology to measure gene expression.
+The dataset also contains clinical outcome information, making it useful for investigating associations between gene expression patterns and breast cancer metastasis.
+
+Research Question
+Can gene expression patterns help researchers understand differences in distant metastasis outcomes among breast cancer patients?
+
+Research Objectives
+1. Identify a publicly available biological dataset.
+2. Understand the dataset structure and characteristics.
+3. Identify the number of samples and features.
+4. Understand the importance of gene expression data in cancer research.
+5. Explore how genomic datasets can support biomedical research.
+
+Importance of the Dataset
+Gene expression data helps researchers understand the activity of genes in biological samples.
+This dataset can be useful for studying patterns associated with breast cancer outcomes and investigating potential prognostic gene signatures.
+
+Conclusion
+In this project, I selected the GSE2034 breast cancer gene expression dataset from the NCBI GEO repository.
+The dataset contains 286 samples and 22,283 probes.
+Through this task, I learned how to identify public biological datasets, understand their structure, document their characteristics, and formulate a research question.
+This project provided an introduction to bioinformatics and the applications of genomic data in biomedical research.
+
+References
+1. NCBI Gene Expression Omnibus: https://www.ncbi.nlm.nih.gov/geo/
+2. GSE2034 Dataset: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE2034
+3. Wang et al. (2005), Gene-expression profiles to predict distant metastasis of lymph-node-negative primary breast cancer.
